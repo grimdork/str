@@ -1,1 +1,0 @@
-package stringer_test
