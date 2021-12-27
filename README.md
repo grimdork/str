@@ -2,7 +2,7 @@
 Some convenient string functions.
 
 ## What
-This package containsa couple of functions to remove duplicates from string slices and optionally sort them, plus a rather over-engineered wrapper around strings.Builder.
+This package contains a couple of functions to remove duplicates from string slices and optionally sort them, plus a rather over-engineered wrapper around strings.Builder.
 
 ### Primary functions
 - RemoveDuplicateStrings() - Removes duplicate strings from a slice of strings, optionally sorting them.
